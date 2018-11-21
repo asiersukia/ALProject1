@@ -1,0 +1,24 @@
+{
+  "id": "5ac91f48-7eb7-4bd4-a61c-1309f08d775d",
+  "name": "ALProject1",
+  "publisher": "Default publisher",
+  "brief": "Test 01",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.1",
+  "showMyCode": true
+}
